@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'NextExit-Black';
+   font-display: swap;
+   src: url('NextExit-Black/font.ttf');
+}
+@font-face {
+   font-family: 'NextExit-Light';
+   font-display: swap;
+   src: url('NextExit-Light/font.ttf');
+}
